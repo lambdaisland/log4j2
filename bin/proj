@@ -5,9 +5,9 @@
 (lioss/main
  {:license        :mpl
   :group-id       "com.lambdaisland"
-  :inception-year 2024
-  :description    "Configuration library"
-  :aliases-as-scope-provided #{:provided}})
+  :inception-year 2025
+  :description    "Log4j2 wrapper for Clojure"
+  })
 
 ;; Local Variables:
 ;; mode:clojure
