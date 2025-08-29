@@ -1,0 +1,14 @@
+#!/usr/bin/env bb
+
+(ns proj (:require [lioss.main :as lioss]))
+
+(lioss/main
+ {:license        :mpl
+  :group-id       "com.lambdaisland"
+  :inception-year 2024
+  :description    "Configuration library"
+  :aliases-as-scope-provided #{:provided}})
+
+;; Local Variables:
+;; mode:clojure
+;; End:
