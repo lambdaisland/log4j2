@@ -1,9 +1,7 @@
 # Unreleased
 
-## Added
-
 ## Fixed
 
-## Changed
+- Add missing dependencies
 
 # 0.1.3 (2025-08-29 / dc8c6de)

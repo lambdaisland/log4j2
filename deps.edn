@@ -2,4 +2,6 @@
  {org.apache.logging.log4j/log4j-api                  {:mvn/version "2.25.1"}
   org.apache.logging.log4j/log4j-core                 {:mvn/version "2.25.1"}
   org.apache.logging.log4j/log4j-slf4j2-impl          {:mvn/version "2.25.1"}
-  org.apache.logging.log4j/log4j-layout-template-json {:mvn/version "2.25.1"}}}
+  org.apache.logging.log4j/log4j-layout-template-json {:mvn/version "2.25.1"}
+  com.fasterxml.jackson.core/jackson-core             {:mvn/version "2.19.2"}
+  com.fasterxml.jackson.core/jackson-databind         {:mvn/version "2.19.2"}}}
