@@ -1,3 +1,11 @@
+# Unreleased
+
+## Added
+
+## Fixed
+
+## Changed
+
 # 0.2.6 (2025-08-30 / 6aff5e6)
 
 ## Fixed
