@@ -14,13 +14,13 @@ Log4j2 wrapper for Clojure
 To use the latest release, add the following to your `deps.edn` ([Clojure CLI](https://clojure.org/guides/deps_and_cli))
 
 ```
-com.lambdaisland/log4j2 {:mvn/version "0.1.3"}
+com.lambdaisland/log4j2 {:mvn/version "0.2.6"}
 ```
 
 or add the following to your `project.clj` ([Leiningen](https://leiningen.org/))
 
 ```
-[com.lambdaisland/log4j2 "0.1.3"]
+[com.lambdaisland/log4j2 "0.2.6"]
 ```
 <!-- /installation -->
 
